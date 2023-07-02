@@ -1,0 +1,332 @@
+{
+    "e_score": [
+      {
+        "id": 1,
+        "text": "When you attend a social event, you usually:",
+        "options": [
+          {"id": "a", "text": "Enjoy engaging with new people and feel energized", "score": 1},
+          {"id": "b", "text": "Prefer having deeper conversations with a few close friends", "score": -1}
+        ]
+      },
+      {
+        "id": 2,
+        "text": "After a long day, you prefer to:",
+        "options": [
+          {"id": "a", "text": "Relax with friends or family, sharing your day's experiences", "score": 1},
+          {"id": "b", "text": "Spend time alone, reflecting on the day and recharging", "score": -1}
+        ]
+      },
+      {
+        "id": 3,
+        "text": "You are more likely to be described as:",
+        "options": [
+          {"id": "a", "text": "Outgoing and sociable", "score": 1},
+          {"id": "b", "text": "Reserved and reflective", "score": -1}
+        ]
+      },
+      {
+        "id": 4,
+        "text": "In a group discussion, you tend to:",
+        "options": [
+          {"id": "a", "text": "Share your thoughts openly and actively participate", "score": 1},
+          {"id": "b", "text": "Listen carefully and share your thoughts when asked", "score": -1}
+        ]
+      },
+      {
+        "id": 5,
+        "text": "When working on a project, you prefer to:",
+        "options": [
+          {"id": "a", "text": "Collaborate with others and exchange ideas", "score": 1},
+          {"id": "b", "text": "Work independently and gather your thoughts before sharing", "score": -1}
+        ]
+      },
+      {
+        "id": 6,
+        "text": "You find it easier to:",
+        "options": [
+          {"id": "a", "text": "Make new friends and establish connections", "score": 1},
+          {"id": "b", "text": "Maintain a close circle of long-term friendships", "score": -1}
+        ]
+      },
+      {
+        "id": 7,
+        "text": "When learning something new, you prefer to:",
+        "options": [
+          {"id": "a", "text": "Discuss it with others and hear their perspectives", "score": 1},
+          {"id": "b", "text": "Reflect on it by yourself and form your own understanding", "score": -1}
+        ]
+      },
+      {
+        "id": 8,
+        "text": "When making decisions, you usually:",
+        "options": [
+          {"id": "a", "text": "Consult others and seek their opinions", "score": 1},
+          {"id": "b", "text": "Spend time alone, contemplating the options", "score": -1}
+        ]
+      },
+      {
+        "id": 9,
+        "text": "In a team setting, you are more likely to:",
+        "options": [
+          {"id": "a", "text": "Take the lead and communicate with others frequently", "score": 1},
+          {"id": "b", "text": "Focus on your tasks and contribute without drawing attention","score": -1}
+        ]
+      },
+      {
+        "id": 10,
+        "text": "When brainstorming ideas, you prefer to:",
+        "options": [
+          {"id": "a", "text": "Discuss your ideas with others to get their input", "score": 1},
+          {"id": "b", "text": "Think through your ideas independently before sharing", "score": -1}
+        ]
+      }
+    ],
+      
+      
+    "s_score": [
+      {
+        "id": 1,
+        "text": "When solving a problem, you rely more on:",
+        "options": [
+          {"id": "a", "text": "Concrete facts and tangible data", "score": 1},
+          {"id": "b", "text": "Intuition and abstract concepts", "score": -1}
+        ]
+      },
+      {
+        "id": 2,
+        "text": "You tend to be more interested in:",
+        "options": [
+          {"id": "a", "text": "Practical applications of ideas", "score": 1},
+          {"id": "b", "text": "Theoretical possibilities and underlying patterns", "score": -1}
+        ]
+      },
+      {
+        "id": 3,
+        "text": "When making decisions, you prefer to:",
+        "options": [
+          {"id": "a", "text": "Focus on real-world considerations and consequences", "score": 1},
+          {"id": "b", "text": "Consider future potential and broader implications", "score": -1}
+        ]
+      },
+      {
+        "id": 4,
+        "text": "You are more likely to trust:",
+        "options": [
+          {"id": "a", "text": "Direct experience and proven facts", "score": 1},
+          {"id": "b", "text": "Gut feelings and hunches", "score": -1}
+        ]
+      },
+      {
+        "id": 5,
+        "text": "In a conversation, you tend to focus on:",
+        "options": [
+          {"id": "a", "text": "Specific details and practical matters", "score": 1},
+          {"id": "b", "text": "Concepts, ideas, and underlying themes", "score": -1}
+        ]
+      },
+      {
+        "id": 6,
+        "text": "When planning a project, you prefer to:",
+        "options": [
+          {"id": "a", "text": "Outline specific steps and milestones", "score": 1},
+          {"id": "b", "text": "Envision the big picture and adapt as needed", "score": -1}
+        ]
+      },
+      {
+        "id": 7,
+        "text": "You are more drawn to:",
+        "options": [
+          {"id": "a", "text": "Hands-on activities and practical experiences", "score": 1},
+          {"id": "b", "text": "Abstract thinking and intellectual exploration", "score": -1}
+        ]
+      },
+      {
+        "id": 8,
+        "text": "When evaluating a situation, you prioritize:",
+        "options": [
+          {"id": "a", "text": "The current reality and what can be observed", "score": 1},
+          {"id": "b", "text": "The potential for future development and change", "score": -1}
+        ]
+      },
+      {
+        "id": 9,
+        "text": "In a learning environment, you prefer:",
+        "options": [
+          {"id": "a", "text": "Hands-on experiences and real-world examples", "score": 1},
+          {"id": "b", "text": "Exploring theories and concepts that explain the world", "score": -1}
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Your communication style is more focused on:",
+        "options": [{"id": "a", "text": "Concrete information and specific examples", "score": 1},
+          {"id": "b", "text": "Ideas, connections, and broader implications", "score": -1}
+        ]
+      }
+    ],
+  
+    "t_score": [
+      {
+        "id": 1,
+        "text": "When making decisions, you prioritize:",
+        "options": [
+          {"id": "a", "text": "Objective logic and analysis", "score": 1},
+          {"id": "b", "text": "Personal values and emotions", "score": -1}
+        ]
+      },
+      {
+        "id": 2,
+        "text": "You are more likely to be described as:",
+        "options": [
+          {"id": "a", "text": "Rational and objective", "score": 1},
+          {"id": "b", "text": "Sensitive and empathetic", "score": -1}
+        ]
+      },
+      {
+        "id": 3,
+        "text": "When giving feedback to others, you tend to:",
+        "options": [
+          {"id": "a", "text": "Focus on identifying flaws and areas for improvement", "score": 1},
+          {"id": "b", "text": "Consider the person's feelings and offer encouragement", "score": -1}
+        ]
+      },
+      {
+        "id": 4,
+        "text": "You prefer to resolve conflicts by:",
+        "options": [
+          {"id": "a", "text": "Analyzing the situation and finding a logical solution", "score": 1},
+          {"id": "b", "text": "Addressing people's feelings and finding common ground", "score": -1}
+        ]
+      },
+      {
+        "id": 5,
+        "text": "In a group setting, you tend to:",
+        "options": [
+          {"id": "a", "text": "Focus on the task at hand and achieving the goal", "score": 1},
+          {"id": "b", "text": "Pay attention to the group dynamics and people's emotions", "score": -1}
+        ]
+      },
+      {
+        "id": 6,
+        "text": "When facing a tough decision, you rely more on:",
+        "options": [
+          {"id": "a", "text": "Critical thinking and weighing pros and cons", "score": 1},
+          {"id": "b", "text": "Your gut feeling and personal values", "score": -1}
+        ]
+      },
+      {
+        "id": 7,
+        "text": "You are more likely to be influenced by:",
+        "options": [
+          {"id": "a", "text": "Data, evidence, and logical arguments", "score": 1},
+          {"id": "b", "text": "Personal connections and emotional appeals", "score": -1}
+        ]
+      },
+      {
+        "id": 8,
+        "text": "When working on a project, you prefer to:",
+        "options": [
+          {"id": "a", "text": "Set clear objectives and evaluate progress based on results", "score": 1},
+          {"id": "b", "text": "Consider the well-being of team members and foster a positive atmosphere", "score": -1}
+        ]
+      },
+      {
+        "id": 9,
+        "text": "You believe that rules and regulations:",
+        "options": [
+          {"id": "a", "text": "Should be followed strictly for the sake of efficiency", "score": 1},
+          {"id": "b", "text": "Can be flexible depending on the needs of the people involved", "score": -1}
+        ]
+      },
+          {
+        "id": 10,
+        "text": "When evaluating someone's performance, you place more emphasis on:",
+        "options": [
+          {"id": "a", "text": "Achievement of goals and adherence to standards", "score": 1},
+          {"id": "b", "text": "The person's growth and personal development", "score": -1}
+        ]
+      }
+    ],
+    "j_score": [
+      {
+        "id": 1,
+        "text": "When it comes to planning, you prefer to:",
+        "options": [
+          {"id": "a", "text": "Have a detailed plan and schedule", "score": 1},
+          {"id": "b", "text": "Keep things open-ended and flexible", "score": -1}
+        ]
+      },
+      {
+        "id": 2,
+        "text": "You are more likely to be described as:",
+        "options": [
+          {"id": "a", "text": "Organized and structured", "score": 1},
+          {"id": "b", "text": "Spontaneous and adaptable", "score": -1}
+        ]
+      },
+      {
+        "id": 3,
+        "text": "When working on a project, you prefer to:",
+        "options": [
+          {"id": "a", "text": "Set deadlines and stick to them", "score": 1},
+          {"id": "b", "text": "Work at your own pace and adjust as needed", "score": -1}
+        ]
+      },
+      {
+        "id": 4,
+        "text": "You feel more comfortable when:",
+        "options": [
+          {"id": "a", "text": "Making decisions and moving forward", "score": 1},
+          {"id": "b", "text": "Keeping your options open and gathering more information", "score": -1}
+        ]
+      },
+      {
+        "id": 5,
+        "text": "When attending an event, you prefer to:",
+        "options": [
+          {"id": "a", "text": "Arrive on time or early", "score": 1},
+          {"id": "b", "text": "Arrive whenever it feels right, even if it's a bit late", "score": -1}
+        ]
+      },
+      {
+        "id": 6,
+        "text": "In your personal life, you are more likely to:",
+        "options": [
+          {"id": "a", "text": "Stick to routines and established habits", "score": 1},
+          {"id": "b", "text": "Be spontaneous and go with the flow", "score": -1}
+        ]
+      },
+      {
+        "id": 7,
+        "text": "When faced with a decision, you usually:",
+        "options": [
+          {"id": "a", "text": "Analyze the options and make a choice quickly", "score": 1},
+          {"id": "b", "text": "Take your time to explore all possibilities before deciding", "score": -1}
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Your approach to completing tasks is:",
+        "options": [
+          {"id": "a", "text": "Focused on finishing one task before starting another", "score": 1},
+          {"id": "b", "text": "Flexible and open to switching between tasks as needed", "score": -1}
+        ]
+      },
+      {
+        "id": 9,
+        "text": "You believe that goals:",
+        "options": [
+          {"id": "a", "text": "Should be clearly defined and pursued systematically", "score": 1},
+          {"id": "b", "text": "Can change and evolve as new information becomes available", "score": -1}
+        ]
+      },
+          {
+                "id": 10,
+                "text": "When it comes to time management, you tend to:",
+                "options": [
+                  {"id": "a", "text": "Plan your day and allocate time for tasks", "score": 1},
+                  {"id": "b", "text": "Take things as they come and adapt to the situation", "score": -1}
+                ]
+           }
+       ]
+  }
